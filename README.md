@@ -27,6 +27,7 @@ A focused, no-noise list of **Model Context Protocol (MCP)** servers for real bu
 
 - **[VirusTotal MCP](https://github.com/BurtTheCoder/mcp-virustotal)** - Lookups for URLs, files, IPs, and domains with relationship context.
 - **[CVE-Search MCP](https://github.com/roadwy/cve-search_mcp)** - Query vendors, products, recent updates, or specific CVE IDs.
+- **[BountyGuard MCP](https://github.com/doomsday-network/bounty-guard)** - Triage untrusted bug-bounty/open-source issues and repos for hidden prompt-injection payloads, malicious CI hooks, and verified on-chain/platform escrow (`SAFE_WITH_ESCROW` / `SAFE_NO_ESCROW` / `QUARANTINE`).
 
 ## 🧑‍💻 Code & Secrets OSINT
 
