@@ -27,6 +27,7 @@ A focused, no-noise list of **Model Context Protocol (MCP)** servers for real bu
 
 - **[VirusTotal MCP](https://github.com/BurtTheCoder/mcp-virustotal)** - Lookups for URLs, files, IPs, and domains with relationship context.
 - **[CVE-Search MCP](https://github.com/roadwy/cve-search_mcp)** - Query vendors, products, recent updates, or specific CVE IDs.
+- **[DoomPay](https://github.com/doomsday-network/doom-pay)** - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ## 🧑‍💻 Code & Secrets OSINT
 
