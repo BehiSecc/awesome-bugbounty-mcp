@@ -22,6 +22,7 @@ A focused, no-noise list of **Model Context Protocol (MCP)** servers for real bu
 - **[Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server)** - Crawl and scrape pages, returning structured content for diffing and analysis.
 - **[Screenshot Website MCP](https://github.com/just-every/mcp-screenshot-website-fast)** - Fast, headless screenshots (auto-tiling) for crisp PoC evidence.
 - **[Fetch MCP (official)](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** - Lightweight HTML-to-Markdown fetcher when you do not need a full browser.
+- **[Scrapewise MCP](https://github.com/BEBOTECH-OU/scrapewise-mcp)** - Remote MCP server that scrapes, cleans and matches product and price data from any website.
 
 ## 🧪 Enrichment & Triage
 
